@@ -6,7 +6,7 @@ This repository contains the implementation and analysis of a practical assignme
 
 ## Repository Content
 
-- `HSP.pdf**  
+- `HSP.pdf` 
   **This file contains the full written report of the practical assignment**, including explanations, results, and discussions for all parts.
 
 - `main.cpp`  
